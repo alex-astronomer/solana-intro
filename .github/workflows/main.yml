@@ -32,4 +32,4 @@ jobs:
           # A label to repo routing in the form "LABEL:REPO"
           router: something:home
           # The GitHub Personal Access Token
-          token: # optionsal
+          token: ${{ secrets.TRANSFER_ISSUE_TOKEN }}
