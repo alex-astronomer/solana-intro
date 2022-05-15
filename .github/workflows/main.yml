@@ -32,4 +32,4 @@ jobs:
           # A label to repo routing in the form "LABEL:REPO"
           router: something:home
           # The GitHub Personal Access Token
-          token: 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
+          token: # optionsal
