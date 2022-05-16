@@ -21,7 +21,7 @@ jobs:
       - name: Transfer Issue & Create Stub
         # You may pin to the exact commit or the version.
         # uses: lando/transfer-issue-action@6467276379d1e7c4c057e79fbb48b2fddf613990
-        uses: lando/transfer-issue-action@v2.0.3
+        uses: alex-astronomer/transfer-issue-action@v0.0.1
         with:
           # A label to apply on the new issue in the format "LABEL:HEXCODE"
           apply_label: "Needs Triage:FF0000"
